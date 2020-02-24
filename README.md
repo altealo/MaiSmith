@@ -6,5 +6,3 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Fanny Nightingale](https://github.com/altealo/FannyNightingale/blob/master/README.md)  |[Wellcome Library. *Letters to Florence Nightingale's parents.*](https://wellcomelibrary.org/item/b18309513)|
 
 
-Letters to Fanny Nightingale from Parthenope Nightingale and others 
-
